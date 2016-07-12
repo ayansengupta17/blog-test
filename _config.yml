@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : " { UnWrap } "
+title                    : " { UnWrap } | test "
 title_separator          : "-"
 name                     : "Ayan Sengupta"
 description              : "A personal blog"
