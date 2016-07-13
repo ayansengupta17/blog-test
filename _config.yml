@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : " { UnWrap } "
 title_separator          : "-"
-name                     : "Ayan Sengupta"
+name                     : " Ayan Sengupta"
 description              : "A personal blog"
 url                      : "https://unwrap.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
