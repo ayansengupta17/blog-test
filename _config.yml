@@ -92,7 +92,13 @@ author:
   xing             :
   youtube          :
 
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
 # Reading Files
 include:
   - .htaccess
