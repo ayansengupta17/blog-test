@@ -31,7 +31,7 @@ comments:
 
 # SEO Related
 google_site_verification :
-bing_site_verification   : 
+bing_site_verification   : "0FC3FD70512616B052E755A56F8952D"
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -99,6 +99,8 @@ defaults:
       type: posts
     values:
       read_time: true
+      
+      
 # Reading Files
 include:
   - .htaccess
