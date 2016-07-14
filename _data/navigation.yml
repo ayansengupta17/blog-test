@@ -1,7 +1,16 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
+  - title: "Writing"
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
-  - title: "Sample Navigation Link 2"
+  - title: "Work"
+    url: /
+    
+  - title: "IIT Bombay"
+    url: /
+  
+  - title: "Daily Youtube"
+    url: /
+  
+  - title: "About"
     url: /
