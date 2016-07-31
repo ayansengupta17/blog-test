@@ -1,3 +1,34 @@
+## [3.3.4](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.4)
+
+### Enhancements
+
+- Add support for configurable feed URL to use a service like FeedBurner instead of linking directly to `feed.xml` in `<head>` and the site footer. [#378](https://github.com/mmistakes/minimal-mistakes/issues/378), [#379](https://github.com/mmistakes/minimal-mistakes/pull/379), [#406](https://github.com/mmistakes/minimal-mistakes/pull/406)
+- Add Turkish localized UI text. [#403](https://github.com/mmistakes/minimal-mistakes/pull/403)
+
+### Maintenance
+
+- Update gems: `activesupport` (4.2.7), `ffi` (1.9.14), `github-pages` (88), `jekyll-redirect-from` (0.11.0), `jekyll-watch` (1.5.0).
+
+## [3.3.3](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.3)
+
+### Enhancements
+
+- Make footer stick to the bottom of the page.
+
+### Bug Fixes
+
+- Fix `gallery` size bug [#402](https://github.com/mmistakes/minimal-mistakes/issues/402)
+
+### Maintenance
+
+- Set default `lang` to `en`.
+
+## [3.3.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.2)
+
+### Bug Fixes
+
+- Fix JavaScript that triggers "sticky" sidebar to avoid layout issues on screen sizes < `1024px`. [#396](https://github.com/mmistakes/minimal-mistakes/issues/396)
+
 ## [3.3.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.1)
 
 ### Enhancements
